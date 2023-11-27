@@ -1,0 +1,49 @@
+html{
+    font-size: 18px;
+}
+
+.navbar {
+    background-color: #2c2b39;
+    width: 100%;
+    height: 100px;
+}
+.logo {
+    margin-left: 15%;
+}
+.top_content {
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 98%; 
+}
+.img {
+    width: 700px; 
+    margin-left: 20%;
+    
+}
+.text1 {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20%;
+    margin-right: 1%;
+}
+.text2 {
+    width: 50%;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20%;
+    margin-right: 30%;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-indent: 20px;
+}
+
+footer {
+    background-color: #2c2b39;
+    height: 100px;
+    color: white;
+}
+
+.address{
+    margin-left: 20%;
+}
